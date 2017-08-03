@@ -1,0 +1,17 @@
+.column {
+  width: 600px;
+  float: left;
+  background-color: blue;
+}
+
+.column1 {
+  width: 600px;
+  float: left;
+  background-color: green;
+}
+
+.column2 {
+  width: 600px;
+  float: left;
+  background-color: yellow;
+}
