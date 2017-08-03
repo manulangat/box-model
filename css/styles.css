@@ -1,7 +1,7 @@
 .column {
   width: 600px;
   float: left;
-  background-color: blue;
+  background-color: white;
 }
 
 .column1 {
@@ -15,3 +15,15 @@
   float: left;
   background-color: yellow;
 }
+
+.bo {
+  border: 2px solid red;
+}
+ html {
+   background-color: grey;
+ }
+
+ .intro {
+   text-align: center;
+   font-size: 30px;
+ }
